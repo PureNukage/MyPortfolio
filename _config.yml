@@ -1,6 +1,6 @@
 # User config
 author: "Roosevelt"
-tagline: "My Portfolio"
+tagline: ""
 description: "Portfolio of my programming projects"
 keywords: "Pineapple, Pineapple Pizza, Pineapple House"
 email: "roosevelt_stenson@yahoo.com"
@@ -9,7 +9,7 @@ twitter: "https://twitter.com/PureNukage"
 github: "https://github.com/PureNukage"
 
 # Site config
-baseurl: "PureNukage.github.io"
+baseurl: "/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
