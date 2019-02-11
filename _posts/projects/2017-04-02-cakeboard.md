@@ -20,10 +20,10 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/cakeboard/cakeboard_image1.gif"
+    url: "/assets/images/projects/cakeboard/cakeboard_image1_cropped.gif"
     alt: ""
   - image:
-    url: "/assets/images/projects/cakeboard/cakeboard_image2.gif"
+    url: "/assets/images/projects/cakeboard/cakeboard_image2_cropped.gif"
     alt: ""
   - image:
     url: "/assets/images/projects/cakeboard/cakeboard_image3.gif"
@@ -37,7 +37,7 @@ At one point it time it was used by a department of 7.<br>
 <br>
 ✔ Credential system uses the OS username to sign the user into their correct account. No passwords required! (If the Windows %username% isn't tied to any account on the board, the user is signed into a Guest account with no permissions)<br>
 <br>
-✔ A random-user-select ability, selects someone random from the board. We used it to draw straws for 'undesirable' tasks.<br>
+✔ A function to select someone random from the board. We used it to draw straws for 'undesirable' tasks.<br>
 <br>
 ✔ Multiple themes!<br>
 <br>

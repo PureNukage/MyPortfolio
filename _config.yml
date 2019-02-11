@@ -9,7 +9,7 @@ twitter: "https://twitter.com/PureNukage"
 github: "https://github.com/PureNukage"
 
 # Site config
-baseurl: "/"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
