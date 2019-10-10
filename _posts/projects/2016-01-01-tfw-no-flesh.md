@@ -23,10 +23,10 @@ images:
     url: "/assets/images/projects/tfw no flesh/screenshot0.png"
     alt: ""
   - image:
-    url: "/"
+    url: "/assets/images/projects/tfw no flesh/screenshot0.png"
     alt: ""
   - image:
-    url: "/"
+    url: "/assets/images/projects/tfw no flesh/screenshot0.png"
     alt: ""
 ---
 <p> Originally made for the Ludum Dare 45<br>
