@@ -10,7 +10,7 @@ project:
   title: "Chainlink: The Journey"
   type: "Jumper game"
   url: "https://purenukage.itch.io/chainlink-the-journey"
-  logo: "/assets/images/projects/chainlink the journey/header.gif"
+  logo: "/assets/images/projects/chainlink the journey/header2.gif"
   tech: "GameMaker, Photoshop, Pivotal Tracker, Git"
 
 agency:
