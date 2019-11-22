@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/chainlink the journey/image0.png"
     alt: ""
   - image:
-    url: "/assets/images/projects/chainlink the journey/image1.png"
+    url: "/assets/images/projects/chainlink the journey/image1.PNG"
     alt: ""
   - image:
     url: "/assets/images/projects/chainlink the journey/image2.png"
