@@ -11,7 +11,7 @@ project:
   type: "72 hour game jam"
   url: "https://github.com/PureNukage/tfw-no-flesh"
   logo: "/assets/images/projects/tfw no flesh/skele-walk-gif.gif"
-  tech: "GameMaker, Photoshop, Pivotal, Git"
+  tech: "GameMaker, Photoshop, Pivotal Tracker, Git"
 
 agency:
   title: "Self"

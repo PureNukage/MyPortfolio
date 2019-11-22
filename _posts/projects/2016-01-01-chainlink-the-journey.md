@@ -11,7 +11,7 @@ project:
   type: "Jumper game"
   url: "https://purenukage.itch.io/chainlink-the-journey"
   logo: "/assets/images/projects/chainlink the journey/header.gif"
-  tech: "GameMaker, Photoshop, Pivotal, Git"
+  tech: "GameMaker, Photoshop, Pivotal Tracker, Git"
 
 agency:
   title: "Self"
@@ -39,6 +39,6 @@ I worked with a friend of mine who spun up the truck and pepe asset and I got th
 <br>
 Playable on itch.io
 <br>
-<iframe frameborder="0" src="https://itch.io/embed-upload/1782944?color=0f2a91" allowfullscreen="" width="1280" height="740"></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/500244" width="552" height="167"></iframe>
 <br>
 </p>
