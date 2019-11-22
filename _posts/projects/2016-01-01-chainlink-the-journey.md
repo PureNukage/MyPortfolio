@@ -20,13 +20,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/chainlink the journey/image0"
+    url: "/assets/images/projects/chainlink the journey/image0.png"
     alt: ""
   - image:
-    url: "/assets/images/projects/chainlink the journey/image1"
+    url: "/assets/images/projects/chainlink the journey/image1.png"
     alt: ""
   - image:
-    url: "/assets/images/projects/chainlink the journey/image2"
+    url: "/assets/images/projects/chainlink the journey/image2.png"
     alt: ""
 ---
 <p> A game made for a small community online to remember 2018 <br>
