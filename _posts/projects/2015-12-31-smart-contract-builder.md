@@ -39,5 +39,5 @@ Easily the largest project I have worked on to-date.
 
 
 <br>
-Playable at [Smart Contract Builder](https://www.smartcontractbuilder.io)
+Playable at [Smart Contract Builder.io](https://www.smartcontractbuilder.io)
 <br>
