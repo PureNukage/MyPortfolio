@@ -31,14 +31,13 @@ images:
 ---
 <p>
 
-A game developed about the Chainlink project and the emerging smart contract ecosystem. Easily the largest project I have worked on to-date. 
+A game developed about the Chainlink project and the emerging smart contract ecosystem. 
+Easily the largest project I have worked on to-date. 
 
 </p>
 
 
+
 <br>
-Playable at www.smartcontractbuilder.io or itch.io 
+Playable at [Smart Contract Builder](https://www.smartcontractbuilder.io)
 <br>
-<iframe frameborder="0" src="https://itch.io/embed/543607?link_color=5b7dfa" width="552" height="167"><a href="https://purenukage.itch.io/smart-contract-builder">Smart Contract Builder by PureNukage</a></iframe>
-<br>
-</p>
