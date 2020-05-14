@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/smart contract builder/scb-logo-animated.gif"
+    url: "/assets/images/projects/smart contract builder/scb-logo-animated-.gif"
     alt: ""
   - image:
     url: "/assets/images/projects/smart contract builder/running contracts.gif"
